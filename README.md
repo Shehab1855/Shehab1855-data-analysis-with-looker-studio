@@ -1,4 +1,4 @@
-Here is a README template for your GitHub project related to data cleaning and transformation using Power BI:
+Here is a README template for your GitHub project related to data cleaning and transformation using Locker studio:
 
 ---
 
