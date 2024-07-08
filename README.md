@@ -2,8 +2,7 @@ Here is a README template for your GitHub project related to data cleaning and t
 
 ---
 
-# Data Cleaning and Transformation with Power BI
-
+# Data Cleaning and Transformation with Locker studio
 ## Project Overview
 
 This project involves using Power BI to clean and transform data, converting raw data into informative presentations. The project aims to analyze user behavior and transaction data from a mobile app to provide actionable insights.
